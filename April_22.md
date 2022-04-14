@@ -32,6 +32,7 @@ Which of the following are valid techniques they could use to handle the problem
 ***The mysterious case of the strange loss***
 
 Jena has finally finished building a neural network!It took her some time to deal with the dataset, but she is finally ready to train the model.Fifteen minutes later, Jena notices that her training loss is not decreasing as expected; it stays much higher than she hoped for.Jena got back to the drawing board to investigate what could be happening.After a couple of hours, Jena has come up with a few potential reasons that could explain the problem.
+
 Which of the following could be causing the loss to behave this way?
 
     - The regularization that Jena is using is too aggressive.
