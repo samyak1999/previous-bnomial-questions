@@ -9,7 +9,7 @@ The problem is that Ted is unsure about the best approach. Should he segment cus
 How would you approach this problem if you were in Ted's shoes?
  Options-
 
-    - Use an unsupervised learning algorithm to produce potentially interesting ways to segment the customers. (Correct Answer)
+    - Use an unsupervised learning algorithm to produce potentially interesting ways to segment the customers. 
     - Define beforehand a few segments, and train a supervised learning algorithm to classify every customer into one of them.
     - Use a supervised learning algorithm to produce potentially interesting ways to segment the customers.
     - Use a semi-supervised learning algorithm to process the data, thus taking advantage of both supervised and unsupervised techniques.
@@ -26,5 +26,16 @@ Which of the following are valid techniques they could use to handle the problem
     -Drop any rows or columns that contain missing or corrupted data.
     -Predict the missing values using a separate machine learning model.
     -Using machine learning algorithms that are robust to missing values.
-All the options are correct.[Explanation]()
+
+---
+### 14/4/22
+***The mysterious case of the strange loss***
+
+Jena has finally finished building a neural network!It took her some time to deal with the dataset, but she is finally ready to train the model.Fifteen minutes later, Jena notices that her training loss is not decreasing as expected; it stays much higher than she hoped for.Jena got back to the drawing board to investigate what could be happening.After a couple of hours, Jena has come up with a few potential reasons that could explain the problem.
+Which of the following could be causing the loss to behave this way?
+
+    - The regularization that Jena is using is too aggressive.
+    - Jena is using a learning rate that's too low.
+    - The neural network is getting stuck at local minima.
+    - Jena is using a learning rate that's too high.
 ---
