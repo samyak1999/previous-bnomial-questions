@@ -61,9 +61,9 @@ Patricia has been working on a logistic classifier for a new project.
 
 She knows that the key to getting successful predictions depends on the error function she decides to use. She wants this function to have the following characteristics:
 
-    The function should return a small number if the sample is correctly classified.
+**The function should return a small number if the sample is correctly classified.
     The function should return a large number if the sample is incorrectly classified.
-    The error for a set of samples should be the sum or average of the errors for all the samples.
+    The error for a set of samples should be the sum or average of the errors for all the samples.**
 
 Patricia has several choices but would like to hear your opinion.
 Which of the following would be the best error function for a logistic classifier?
@@ -72,3 +72,4 @@ Which of the following would be the best error function for a logistic classifie
     -Square error: a function that returns the square of the difference between the prediction and the label.
     -Log loss: a function that returns the negative logarithm of the product of probabilities.
     -Mean percentage: a function that returns the average error of the differences between predicted and actual values.
+---
