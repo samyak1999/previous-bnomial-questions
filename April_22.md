@@ -54,4 +54,21 @@ Which of the following could be François' thinking behind his advice?
     -A new dataset changes the tradeoff between optimization and regularization. The learning-rate schedule is dataset-specific.
     -Learning-rate schedules are specific to the optimization mechanisms used by the model. A new dataset usually requires that we change the optimization process, which will invalidate the learning-rate schedule as well.
 ---
+### 16/4/22
+***Patricia is building a logistic classifier***
 
+Patricia has been working on a logistic classifier for a new project.
+
+She knows that the key to getting successful predictions depends on the error function she decides to use. She wants this function to have the following characteristics:
+
+    The function should return a small number if the sample is correctly classified.
+    The function should return a large number if the sample is incorrectly classified.
+    The error for a set of samples should be the sum or average of the errors for all the samples.
+
+Patricia has several choices but would like to hear your opinion.
+Which of the following would be the best error function for a logistic classifier?
+    
+    -Absolute error: a function that returns the absolute value of the difference between the prediction and the label.
+    -Square error: a function that returns the square of the difference between the prediction and the label.
+    -Log loss: a function that returns the negative logarithm of the product of probabilities.
+    -Mean percentage: a function that returns the average error of the differences between predicted and actual values.
