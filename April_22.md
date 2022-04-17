@@ -73,3 +73,14 @@ Which of the following would be the best error function for a logistic classifie
     -Log loss: a function that returns the negative logarithm of the product of probabilities.
     -Mean percentage: a function that returns the average error of the differences between predicted and actual values.
 ---
+### 17/4/22
+***The birthday paradox***
+After a lot of begging, Lucia convinced Anna to go to a party together. Anna likes to spend most of her time with math books. The change of scenery was good, so she showed up.After an hour or so, Lucia noticed that Anna was not having fun, so she decided to cheer her up with an interesting problem."Anna, there are 23 people at this party right now. What is the probability that two of them share the same birthday?"
+
+What is the correct answer to Lucia's question?
+
+    -There's about a 1% probability of two people sharing the same birthday.
+    -There's about a 6% probability of two people sharing the same birthday.
+    -There's about a 17% probability of two people sharing the same birthday.
+    -There's about a 50% probability of two people sharing the same birthday.
+---    
