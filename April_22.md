@@ -75,6 +75,7 @@ Which of the following would be the best error function for a logistic classifie
 ---
 ### 17/4/22
 ***The birthday paradox***
+
 After a lot of begging, Lucia convinced Anna to go to a party together. Anna likes to spend most of her time with math books. The change of scenery was good, so she showed up.After an hour or so, Lucia noticed that Anna was not having fun, so she decided to cheer her up with an interesting problem."Anna, there are 23 people at this party right now. What is the probability that two of them share the same birthday?"
 
 What is the correct answer to Lucia's question?
