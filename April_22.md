@@ -92,13 +92,8 @@ A team has been working on a self-driving car model to detect pedestrians crossi
 
 A discussion starts with some initial ideas. Which of the following evaluation metrics would be the best for this problem?
 
-The team should use the recall of the model, as defined by the percentage of detected pedestrians with respect to every image containing a pedestrian.
-❯
-
-The team should use the precision of the model, as defined by the percentage of legitimate detected pedestrians with respect to every detected pedestrian.
-•
-
-The team should use the Fβ-Score of the model with a high value of β.
-•
-
-The team should use the Fβ-Score of the model with a low value of β.
+    -The team should use the recall of the model, as defined by the percentage of detected pedestrians with respect to every image containing a pedestrian.
+    -The team should use the precision of the model, as defined by the percentage of legitimate detected pedestrians with respect to every detected pedestrian.
+    -The team should use the Fβ-Score of the model with a high value of β.
+    -The team should use the Fβ-Score of the model with a low value of β.
+---
