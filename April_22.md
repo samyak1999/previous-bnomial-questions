@@ -85,3 +85,20 @@ What is the correct answer to Lucia's question?
     -There's about a 17% probability of two people sharing the same birthday.
     -There's about a 50% probability of two people sharing the same birthday.
 ---    
+### 18/4/22
+***Keeping pedestrians safe***
+
+A team has been working on a self-driving car model to detect pedestrians crossing the street on images captured from the car cameras.Their model will help cars navigate busy areas while keeping everyone around safe. It's a critical and delicate piece to get to full autonomy.Despite initial promising results, they haven't settled on the best way to evaluate the model's performance.
+
+A discussion starts with some initial ideas. Which of the following evaluation metrics would be the best for this problem?
+
+The team should use the recall of the model, as defined by the percentage of detected pedestrians with respect to every image containing a pedestrian.
+❯
+
+The team should use the precision of the model, as defined by the percentage of legitimate detected pedestrians with respect to every detected pedestrian.
+•
+
+The team should use the Fβ-Score of the model with a high value of β.
+•
+
+The team should use the Fβ-Score of the model with a low value of β.
