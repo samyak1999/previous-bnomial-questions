@@ -105,7 +105,7 @@ Remember the last time you built a machine learning multi-class classification m
 You probably used a softmax activation on the output layer of your network. It's a widespread practice, so there's a good chance you've done it. It's usually fun to think about why we do things the way we do them, so let's get into it.Which of the following statements is true about the softmax activation function when used in the output layer of a neural network?
 
 
-    The softmax function turns the network's input into a vector of probabilities that sum to 1.
-    The softmax function is a probabilistic or "smooth" version of the function that returns the index of the vector's largest value.
-    The softmax function turns a vector of real values into a sorted vector of probabilities that sum to 1.
-    The softmax function is a probabilistic or "smooth" version of the function that returns the vector's maximum value.
+    -The softmax function turns the network's input into a vector of probabilities that sum to 1.
+    -The softmax function is a probabilistic or "smooth" version of the function that returns the index of the vector's largest value.
+    -The softmax function turns a vector of real values into a sorted vector of probabilities that sum to 1.
+    -The softmax function is a probabilistic or "smooth" version of the function that returns the vector's maximum value.
