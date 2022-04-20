@@ -123,4 +123,4 @@ Which of the following statements explains how One-Hot Encoding works?
     -One-Hot Encoding creates additional features based on the number of unique values in a categorical feature.
     -One-Hot Encoding encodes a string-encoded feature into its numerical representation.
     -One-Hot Encoding encodes a string-encoded feature into its categorical representation.
-    ---
+---
