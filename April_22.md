@@ -109,3 +109,18 @@ You probably used a softmax activation on the output layer of your network. It's
     -The softmax function is a probabilistic or "smooth" version of the function that returns the index of the vector's largest value.
     -The softmax function turns a vector of real values into a sorted vector of probabilities that sum to 1.
     -The softmax function is a probabilistic or "smooth" version of the function that returns the vector's maximum value.
+---
+### 20/04/22
+***Alice can't remember how One-Hot Encoding works***
+
+When building a machine learning model, much of the work happens well before starting training.
+
+Alice knows that she needs to prepare the data before it's ready. She has been looking into encoding some of the features on her dataset. One-Hot Encoding seems like a good candidate.It's been quite a while since Alice used One-Hot Encoding, and she can use some help.
+
+Which of the following statements explains how One-Hot Encoding works?
+
+    -One-Hot Encoding encodes a numerical feature into its categorical representation.
+    -One-Hot Encoding creates additional features based on the number of unique values in a categorical feature.
+    -One-Hot Encoding encodes a string-encoded feature into its numerical representation.
+    -One-Hot Encoding encodes a string-encoded feature into its categorical representation.
+    ---
