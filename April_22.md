@@ -124,3 +124,16 @@ Which of the following statements explains how One-Hot Encoding works?
     -One-Hot Encoding encodes a string-encoded feature into its numerical representation.
     -One-Hot Encoding encodes a string-encoded feature into its categorical representation.
 ---
+### 21/04/22
+***The anatomy of ReLU***
+
+The Rectified Linear Activation Function, or ReLU, returns its input if it's positive or a zero otherwise.
+
+In other words: ReLU turns any negative values into zero and leaves everything else unmodified.ReLU has become a popular activation function when training neural networks. Since it's a linear function and computationally straightforward to implement, models become easier to optimize and achieve better performance.There's something very interesting about combining Gradient Descent with ReLU, and to get there, we have to think a bit about the mathematical properties of ReLU.
+
+Which of the following is true about the Rectified Linear Activation Function (ReLU)?
+
+    -The function is neither continuous nor differentiable.
+    -The function is differentiable but not continuous.
+    -The function is both continuous and differentiable.
+    -The function is continuous but not differentiable.
