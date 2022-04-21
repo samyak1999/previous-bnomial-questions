@@ -129,7 +129,7 @@ Which of the following statements explains how One-Hot Encoding works?
 
 The Rectified Linear Activation Function, or ReLU, returns its input if it's positive or a zero otherwise.
 
-In other words: ReLU turns any negative values into zero and leaves everything else unmodified.ReLU has become a popular activation function when training neural networks. Since it's a linear function and computationally straightforward to implement, models become easier to optimize and achieve better performance.There's something very interesting about combining Gradient Descent with ReLU, and to get there, we have to think a bit about the mathematical properties of ReLU.
+In other words: ReLU turns any negative values into zero and leaves everything else unmodified. ReLU has become a popular activation function when training neural networks. Since it's a linear function and computationally straightforward to implement, models become easier to optimize and achieve better performance.There's something very interesting about combining Gradient Descent with ReLU, and to get there, we have to think a bit about the mathematical properties of ReLU.
 
 Which of the following is true about the Rectified Linear Activation Function (ReLU)?
 
