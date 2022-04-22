@@ -137,3 +137,16 @@ Which of the following is true about the Rectified Linear Activation Function (R
     -The function is differentiable but not continuous.
     -The function is both continuous and differentiable.
     -The function is continuous but not differentiable.
+### 22/04/22
+***Australian birds***
+
+Marc was excited about the performance of his model.
+
+He's been working on an app to classify photos of birds, and his model is performing very well on all metrics. Marc knows what he is doing and followed all the best practices: he split training and test data, used the proper evaluations metrics, balanced his dataset, and reviewed examples regularly to ensure there were no labeling errors. Finally, Marc launched his app.Positive feedback started rolling in except from one place: users in Australia complained the performance was awful. Marc was baffled.
+
+What is the most likely reason for the problem?
+
+- [ ] Marc didn't train the model long enough to capture all the necessary details of different bird species.
+- [ ] Marc's model is too simple, and it couldn't learn the entire dataset of birds, leaving out those from Australia.
+- [ ] Marc's model suffers from sampling bias. He probably didn't include enough examples of Australian birds.
+- [ ] Marc's model is suffering from data or concept drift.
