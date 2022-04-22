@@ -22,10 +22,10 @@ The customer data the team received was not in great shape.After some analysis, 
 Which of the following are valid techniques they could use to handle the problems with their data?
  Options-
   
-    -Replace missing values with the mean, median, mode, or other imputation techniques.
-    -Drop any rows or columns that contain missing or corrupted data.
-    -Predict the missing values using a separate machine learning model.
-    -Using machine learning algorithms that are robust to missing values.
+ - [ ] Replace missing values with the mean, median, mode, or other imputation techniques.
+ - [x] Drop any rows or columns that contain missing or corrupted data.
+ - [x] Predict the missing values using a separate machine learning model.
+ - [x] Using machine learning algorithms that are robust to missing values.
 
 ---
 ### 14/4/22
@@ -148,5 +148,5 @@ What is the most likely reason for the problem?
 
 - [ ] Marc didn't train the model long enough to capture all the necessary details of different bird species.
 - [ ] Marc's model is too simple, and it couldn't learn the entire dataset of birds, leaving out those from Australia.
-- [ ] Marc's model suffers from sampling bias. He probably didn't include enough examples of Australian birds.
+- [x] Marc's model suffers from sampling bias. He probably didn't include enough examples of Australian birds.
 - [ ] Marc's model is suffering from data or concept drift.
