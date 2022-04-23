@@ -49,10 +49,10 @@ When training a new version of the model — even when using the same architectu
 
 Which of the following could be François' thinking behind his advice?
 
-    -The learning-rate schedule depends on the number of samples in the dataset, so the exact schedule won't work with a different size dataset.
-    -The learning-rate schedule should change whenever we have a dataset from a different target distribution. This won't be the case if the target distribution is the same.
-    -A new dataset changes the tradeoff between optimization and regularization. The learning-rate schedule is dataset-specific.
-    -Learning-rate schedules are specific to the optimization mechanisms used by the model. A new dataset usually requires that we change the optimization process, which will invalidate the learning-rate schedule as well.
+ - [ ] The learning-rate schedule depends on the number of samples in the dataset, so the exact schedule won't work with a different size dataset.
+ - [ ] The learning-rate schedule should change whenever we have a dataset from a different target distribution. This won't be the case if the target distribution is the same.
+ - [x] A new dataset changes the tradeoff between optimization and regularization. The learning-rate schedule is dataset-specific.
+- [ ] Learning-rate schedules are specific to the optimization mechanisms used by the model. A new dataset usually requires that we change the optimization process, which will invalidate the learning-rate schedule as well.
 ---
 ### 16/4/22
 ***Patricia is building a logistic classifier***
