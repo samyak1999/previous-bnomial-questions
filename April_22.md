@@ -35,10 +35,10 @@ Jena has finally finished building a neural network!It took her some time to dea
 
 Which of the following could be causing the loss to behave this way?
 
-    - The regularization that Jena is using is too aggressive.
-    - Jena is using a learning rate that's too low.
-    - The neural network is getting stuck at local minima.
-    - Jena is using a learning rate that's too high.
+- [x] The regularization that Jena is using is too aggressive.
+- [x] Jena is using a learning rate that's too low.
+- [x] The neural network is getting stuck at local minima.
+- [ ] Jena is using a learning rate that's too high.
 ---
 ### 15/4/22
 ***Looking behind François's Tweet***
