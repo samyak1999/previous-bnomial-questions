@@ -68,10 +68,10 @@ She knows that the key to getting successful predictions depends on the error fu
 Patricia has several choices but would like to hear your opinion.
 Which of the following would be the best error function for a logistic classifier?
     
-    -Absolute error: a function that returns the absolute value of the difference between the prediction and the label.
-    -Square error: a function that returns the square of the difference between the prediction and the label.
-    -Log loss: a function that returns the negative logarithm of the product of probabilities.
-    -Mean percentage: a function that returns the average error of the differences between predicted and actual values.
+- [ ] Absolute error: a function that returns the absolute value of the difference between the prediction and the label.
+- [ ] Square error: a function that returns the square of the difference between the prediction and the label.
+- [x] Log loss: a function that returns the negative logarithm of the product of probabilities.
+- [ ] Mean percentage: a function that returns the average error of the differences between predicted and actual values.
 ---
 ### 17/4/22
 ***The birthday paradox***
@@ -80,10 +80,10 @@ After a lot of begging, Lucia convinced Anna to go to a party together. Anna lik
 
 What is the correct answer to Lucia's question?
 
-    -There's about a 1% probability of two people sharing the same birthday.
-    -There's about a 6% probability of two people sharing the same birthday.
-    -There's about a 17% probability of two people sharing the same birthday.
-    -There's about a 50% probability of two people sharing the same birthday.
+- [ ] There's about a 1% probability of two people sharing the same birthday.
+- [ ] There's about a 6% probability of two people sharing the same birthday.
+- [ ] There's about a 17% probability of two people sharing the same birthday.
+- [x] There's about a 50% probability of two people sharing the same birthday.
 ---    
 ### 18/4/22
 ***Keeping pedestrians safe***
@@ -92,10 +92,10 @@ A team has been working on a self-driving car model to detect pedestrians crossi
 
 A discussion starts with some initial ideas. Which of the following evaluation metrics would be the best for this problem?
 
-    -The team should use the recall of the model, as defined by the percentage of detected pedestrians with respect to every image containing a pedestrian.
-    -The team should use the precision of the model, as defined by the percentage of legitimate detected pedestrians with respect to every detected pedestrian.
-    -The team should use the Fβ-Score of the model with a high value of β.
-    -The team should use the Fβ-Score of the model with a low value of β.
+ - [ ] The team should use the recall of the model, as defined by the percentage of detected pedestrians with respect to every image containing a pedestrian.
+ - [ ] The team should use the precision of the model, as defined by the percentage of legitimate detected pedestrians with respect to every detected pedestrian.
+ - [x] The team should use the Fβ-Score of the model with a high value of β.
+ - [ ] The team should use the Fβ-Score of the model with a low value of β.
 ---
 ### 19/04/22
 ***Thinking about softmax***
@@ -105,10 +105,10 @@ Remember the last time you built a machine learning multi-class classification m
 You probably used a softmax activation on the output layer of your network. It's a widespread practice, so there's a good chance you've done it. It's usually fun to think about why we do things the way we do them, so let's get into it.Which of the following statements is true about the softmax activation function when used in the output layer of a neural network?
 
 
-    -The softmax function turns the network's input into a vector of probabilities that sum to 1.
-    -The softmax function is a probabilistic or "smooth" version of the function that returns the index of the vector's largest value.
-    -The softmax function turns a vector of real values into a sorted vector of probabilities that sum to 1.
-    -The softmax function is a probabilistic or "smooth" version of the function that returns the vector's maximum value.
+- [ ] The softmax function turns the network's input into a vector of probabilities that sum to 1.
+- [x] The softmax function is a probabilistic or "smooth" version of the function that returns the index of the vector's largest value.
+- [ ] The softmax function turns a vector of real values into a sorted vector of probabilities that sum to 1.
+- [ ] The softmax function is a probabilistic or "smooth" version of the function that returns the vector's maximum value.
 ---
 ### 20/04/22
 ***Alice can't remember how One-Hot Encoding works***
@@ -119,10 +119,10 @@ Alice knows that she needs to prepare the data before it's ready. She has been l
 
 Which of the following statements explains how One-Hot Encoding works?
 
-    -One-Hot Encoding encodes a numerical feature into its categorical representation.
-    -One-Hot Encoding creates additional features based on the number of unique values in a categorical feature.
-    -One-Hot Encoding encodes a string-encoded feature into its numerical representation.
-    -One-Hot Encoding encodes a string-encoded feature into its categorical representation.
+- [ ] One-Hot Encoding encodes a numerical feature into its categorical representation.
+- [x] One-Hot Encoding creates additional features based on the number of unique values in a categorical feature.
+- [ ] One-Hot Encoding encodes a string-encoded feature into its numerical representation.
+- [ ] One-Hot Encoding encodes a string-encoded feature into its categorical representation.
 ---
 ### 21/04/22
 ***The anatomy of ReLU***
@@ -133,10 +133,10 @@ In other words: ReLU turns any negative values into zero and leaves everything e
 
 Which of the following is true about the Rectified Linear Activation Function (ReLU)?
 
-    -The function is neither continuous nor differentiable.
-    -The function is differentiable but not continuous.
-    -The function is both continuous and differentiable.
-    -The function is continuous but not differentiable.
+- [ ] The function is neither continuous nor differentiable.
+- [ ] The function is differentiable but not continuous.
+- [ ] The function is both continuous and differentiable.
+- [x] The function is continuous but not differentiable.
 ---
 ### 22/04/22
 ***Australian birds***
