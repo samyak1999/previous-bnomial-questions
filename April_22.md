@@ -145,7 +145,7 @@ Marc was excited about the performance of his model.
 
 He's been working on an app to classify photos of birds, and his model is performing very well on all metrics. Marc knows what he is doing and followed all the best practices: he split training and test data, used the proper evaluations metrics, balanced his dataset, and reviewed examples regularly to ensure there were no labeling errors. Finally, Marc launched his app.Positive feedback started rolling in except from one place: users in Australia complained the performance was awful. Marc was baffled.
 
-What is the most likely reason for the problem?
+**What is the most likely reason for the problem?**
 
 - [ ] Marc didn't train the model long enough to capture all the necessary details of different bird species.
 - [ ] Marc's model is too simple, and it couldn't learn the entire dataset of birds, leaving out those from Australia.
@@ -167,3 +167,5 @@ We want to build an automatic price recommendation system using supervised learn
 - [ ] y is a feature vector containing the variables that describe the car, and x is the logarithm of the price of the car.
 - [ ] y is a feature vector containing the variables that describe the car, and x is the price of the car.
 ---
+### 24/04/22
+***Mia and the feedback loop***
