@@ -195,3 +195,17 @@ Unfortunately, during backpropagation, the gradient values of their network decr
 - [x] Harper should make sure they are initializing the weights properly. For example, using He initialization should help with the vanishing gradient problem.
 - [ ] Harper should increase the learning rate to avoid getting stuck in local minima and thus reduce the chance of suffering vanishing gradients.
 ---
+### 26/04/22
+***Exploring data before anything else***
+
+An essential step in any machine learning project is the Exploratory Data Analysis process.
+
+Before we can train a model, we need to understand our data. As the name suggests, Exploratory Data Analysis allows us to explore the data to discover potential problems or patterns that we can use.
+
+**Which of the following are some of the steps we take during this process?**
+
+- [x] Learn the distribution of the target variable.
+- [x] Understand the features in the dataset and the distribution of their values.
+- [ ] Evaluate the performance of our models on this data.
+- [x] Assess the data quality, including missing or corrupt values.
+---
