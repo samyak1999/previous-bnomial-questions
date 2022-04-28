@@ -224,3 +224,19 @@ She experimented with different hyperparameters, and now she has two models that
 - [x] Susan should compute the area under the curve for both models and choose the one with the higher value.
 - [ ] There's no objective way to decide which model is best. Susan should pick either one of them.
 ---
+### 28/04/22
+***Linear regression by hand***
+
+The best way to learn something new is to rip the band-aid and tackle a problem from scratch.
+
+Imagine you get a dataset with thousands of samples of houses sold in the U.S. over the last five years. We know the value of a few different features of each home and the price it was sold for. The goal is to build a simple model capable of predicting the price of a new house given those features. A linear regression model seems like an excellent place to start. But you are not writing any code yet. You want to do this manually, starting with a matrix X containing the value of the features and a vector w containing the weights.
+
+The next step is to multiply X and w, but you aren't sure about the result of this operation.
+
+**Which of the following better describes the result of multiplying X and w?**
+
+- [ ] The result will be a vector y containing the actual price of each house as provided in the dataset.
+- [x] The result will be a vector y containing the predicted price of each house.
+- [ ] The result will be a matrix y containing the actual price of each house and the features from the matrix X.
+- [ ] The result will be a matrix y containing the predicted price of each house and the features from the matrix X.
+---
