@@ -240,3 +240,18 @@ The next step is to multiply X and w, but you aren't sure about the result of th
 - [ ] The result will be a matrix y containing the actual price of each house and the features from the matrix X.
 - [ ] The result will be a matrix y containing the predicted price of each house and the features from the matrix X.
 ---
+### 29/04/22
+***20,000 sunny and cloudy samples***
+
+Today is your very first day.
+
+You get access to weather data. Twenty thousand samples with the weather of sunny and cloudy days. You want to build a model to predict whether a future day will be sunny or cloudy.
+
+You already know this is a binary classification problem, and now it's time to pick a model.
+**Which of the following techniques can you use to build a binary classification model?**
+
+- [x] Logistic Regression
+- [x] k-Nearest Neighbors
+- [x] Neural Networks
+- [x] Decision Trees 
+---
