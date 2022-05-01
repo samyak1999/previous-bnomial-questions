@@ -9,4 +9,3 @@ Questions are curated in respective months and are accessible from the links bel
 
 1. [April](April_22.md) 
 2. [May](May_2022.md)
-3. 
