@@ -7,5 +7,5 @@ If you have never heard of bnomial, visit [bnomial](https://today.bnomial.com/) 
 
 Questions are curated in respective months and are accessible from the links below:-
 
-1. [April](April_22.md) 
+1. [April](April_2022.md) 
 2. [May](May_2022.md)
